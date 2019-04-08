@@ -176,7 +176,8 @@
       path('admin/', admin.site.urls),
     ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
     ```
-
+    
+    (3) 需要在虚拟环境里安装```pip install Pillow```
 
 
 13. 新建app
