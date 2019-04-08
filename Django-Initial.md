@@ -40,7 +40,7 @@
 
    (2) ```git init```  
 
-   (3) 在btre的根路径下创建一个.gitignore文本
+   (3) 在项目根路径下创建一个.gitignore文本 （和.vscode, btre同个目录）
 
    加入： 【.gitignore作用是提交到仓库时会自动帮我们忽略gitignore里的那些文件，这些文件是我们不想上传公开的】
 
