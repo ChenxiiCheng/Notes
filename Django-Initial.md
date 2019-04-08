@@ -12,7 +12,7 @@
 
    (1) ```mkdir btre_project```
 
-   (2) ``cd btree_project``
+   (2) ``cd btre_project``
 
    (3) ```code .```  #会在vscode里开启该目录
 
@@ -46,7 +46,7 @@
 
    ```
    *.log
-   *pot
+   *.pot
    *.pyc
    __pycache__/
    local_settings.py
