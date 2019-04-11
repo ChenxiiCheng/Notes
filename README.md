@@ -1,3 +1,3 @@
-# Django-Notes
+# Notes
 
-整理的一些Django初始化配置和用法
+整理的学习笔记
