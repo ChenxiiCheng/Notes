@@ -23,7 +23,7 @@
 2. 上面我们安装了postgres数据库，我们现在把数据库和django连接起来
 
    (1) 在虚拟环境中, ```pip install psycopg2``` ```pip install psycopg2-binary```
-         安装```pip install psycopg2```报错了，```Error: pg_config executable not found. pg_config is required to build psycopg2 from source.```，在python官网查了下，The binary package is a practical choice for development and testing but in production it is advised to use the package built from sources. 先用psycopg2-binary吧，之后再考虑解决第一个指令的报错。
+         安装```pip install psycopg2```报错了，```Error: pg_config executable not found. pg_config is required to build psycopg2 from source.```，在python官网查了下，You can also obtain a stand-alone package, not requiring a compiler or external libraries, by installing the psycopg2-binary package from PyPI: ```$ pip install psycopg2-binary```. The binary package is a practical choice for development and testing but in production it is advised to use the package built from sources. 先用psycopg2-binary吧，之后再考虑解决第一个指令的报错。
 
    (2) 在settings.py中
 
