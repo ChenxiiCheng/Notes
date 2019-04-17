@@ -175,6 +175,16 @@
       path('listings/', include('listings.urls')),
       path('admin/', admin.site.urls),
     ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+    
+    
+    或者：
+  
+    from MxShop.settings import MEDIA_ROOT
+    from django.views.static import serve
+
+    urlpatterns = [
+        url(r'^media/(?P<path>.)$', serve, {"document_root": MEDIA_ROOT}),
+    ]
     ```
     
     (3) 需要在虚拟环境里安装```pip install Pillow```
