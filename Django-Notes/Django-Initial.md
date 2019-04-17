@@ -177,8 +177,8 @@
     ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
     
     
-    或者：
-  
+    或者：[Django 1.11]
+     
     from MxShop.settings import MEDIA_ROOT
     from django.views.static import serve
 
