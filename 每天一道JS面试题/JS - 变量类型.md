@@ -40,7 +40,7 @@
 
 3. `typeof ([1, 2])`的结果是`object`，结果中没有`array`这一项，引用类型除了`function`其他的全都是`object`
 
-**`instanceof`：**用来判断A是否为B的实例，表达式为：A instanceof B，如果A是B的实例，则返回true，否则返回false。**注意：**它不能用来检测null 和 undefined
+`instanceof`：用来判断A是否为B的实例，表达式为：A instanceof B，如果A是B的实例，则返回true，否则返回false。**注意：**它不能用来检测null 和 undefined
 
 1. 用于实例和构造函数的对应
 
