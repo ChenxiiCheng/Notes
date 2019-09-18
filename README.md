@@ -39,3 +39,21 @@
 
 ### 小组件系列
 1. Webpack中如何支持Less和antd（create-react-app）：[less、antd](https://github.com/ChenxiiCheng/Notes/blob/master/React-Notes/Webpack%E4%B8%AD%E5%A6%82%E4%BD%95%E6%94%AF%E6%8C%81Less%E5%92%8Cantd.pdf) 
+
+
+<br/>
+
+### Django学习笔记系列：
+1. Django-Initial：[初始化](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Initial.md) 
+
+2. Django-Postgres-PgAdmin：[使用Postgres数据库](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Postgres-PgAdmin.md) 
+
+3. Django-Admin：[创建、注册、定制化admin](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Admin.md) 
+
+4. Django-xadmin：[xadmin配置](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-xadmin%E9%85%8D%E7%BD%AE.md) 
+
+5. Django-Templates：[模板使用静态资源、高亮导航栏入口](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Templates.md) 
+
+6. Django-Pagination：[实现分页](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Pagination.md) 
+
+7. Django-Search：[搜索](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Search.md) 
