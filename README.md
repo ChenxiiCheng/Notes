@@ -6,7 +6,7 @@
 
 
 ### 每天一道JS面试题系列：
-1. map、forEach、filter、reduce、some、every: [JS](https://github.com/ChenxiiCheng/Notes/blob/master/每天一道JS面试题/JS-map-filter.md)
+1. map、forEach、filter、reduce、some、every: [JavaScript](https://github.com/ChenxiiCheng/Notes/blob/master/每天一道JS面试题/JS-map-filter.md)
 
    
 
