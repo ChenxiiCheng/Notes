@@ -11,3 +11,5 @@
 2. 变量类型：[值类型 vs 引用类型](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B.md) 
 
 3. 变量类型转换：[四则运算](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+
+4. 浅拷贝、深拷贝：[浅拷贝 vs 深拷贝](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E6%B5%85%E6%8B%B7%E8%B4%9D%E3%80%81%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
