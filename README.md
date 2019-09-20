@@ -17,7 +17,19 @@
 
 5. 变量类型转换：[四则运算](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E5%8F%98%E9%87%8F%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-6. 浅拷贝、深拷贝：[浅拷贝 vs 深拷贝](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E6%B5%85%E6%8B%B7%E8%B4%9D%E3%80%81%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
+6. 原型和原型链：[原型 && 原型链](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
+
+7. 作用域和闭包：[作用域 && 闭包](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85.md)
+
+8. 回调函数：[回调函数](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E5%9B%9E%E8%B0%83%E5%87%BD%E6%95%B0.md)
+
+9. Promise：[Promise](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20Promise.md)
+
+10. async和await：[async && await](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20async%E5%92%8Cawait.md)
+
+11. 浅拷贝、深拷贝：[浅拷贝 vs 深拷贝](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20%E6%B5%85%E6%8B%B7%E8%B4%9D%E3%80%81%E6%B7%B1%E6%8B%B7%E8%B4%9D.md)
+
+12. ES3 / ES5 / ES6：[优点 vs 缺点 vs 目标](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20ES3ES5ES6%E4%BC%98%E7%82%B9%E7%BC%BA%E7%82%B9.md)
 
 
 <br/>
