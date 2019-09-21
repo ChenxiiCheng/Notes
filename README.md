@@ -36,6 +36,14 @@
 ### NodeJS学习笔记
 1. async、await异步终极解决方案：[async && await](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/async%20await%20%E5%BC%82%E6%AD%A5%E6%9C%80%E7%BB%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) 
 
+2. Koa 路由：[koa-router](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Koa%20%E8%B7%AF%E7%94%B1.md)
+
+3. requireDirectory实现路由自动注册：[require-directory](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/requireDirectory%E5%AE%9E%E7%8E%B0%E8%B7%AF%E7%94%B1%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C.md)
+
+4. nodemon 与 vscode：[如何把vscode的调试和nodemon的自动重启结合起来](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/nodemon%20%E4%B8%8E%20vscode.md)
+
+5. URL参数获取：[如何获取URL参数](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8F%82%E6%95%B0%E8%8E%B7%E5%8F%96%E4%B8%8ELinValidator%E6%A0%A1%E9%AA%8C%E5%99%A8.md)
+
 <br/>
 
 ### React学习笔记：
