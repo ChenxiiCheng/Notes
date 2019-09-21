@@ -31,6 +31,10 @@
 
 12. ES3 / ES5 / ES6：[优点 vs 缺点 vs 目标](https://github.com/ChenxiiCheng/Notes/blob/master/%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%81%93JS%E9%9D%A2%E8%AF%95%E9%A2%98/JS%20-%20ES3ES5ES6%E4%BC%98%E7%82%B9%E7%BC%BA%E7%82%B9.md)
 
+<br />
+
+### NodeJS学习笔记
+1. async、await异步终极解决方案：[async && await](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/async%20await%20%E5%BC%82%E6%AD%A5%E6%9C%80%E7%BB%88%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md) 
 
 <br/>
 
