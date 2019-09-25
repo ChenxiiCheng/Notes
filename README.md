@@ -44,6 +44,20 @@
 
 5. URL参数获取：[如何获取URL参数](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8F%82%E6%95%B0%E8%8E%B7%E5%8F%96%E4%B8%8ELinValidator%E6%A0%A1%E9%AA%8C%E5%99%A8.md)
 
+6. JS中的JSON序列化控制：[JSON序列化](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/JS%E4%B8%AD%E7%9A%84JSON%E5%BA%8F%E5%88%97%E5%8C%96%E6%8E%A7%E5%88%B6.md)
+
+7. Sequelize初始化配置&User模型：[Sequelize初始化配置 && User模型](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Sequelize%E5%88%9D%E5%A7%8B%E5%8C%96%E9%85%8D%E7%BD%AE%26User%E6%A8%A1%E5%9E%8B.md)
+
+8. 参数获取与LinValidator校验器：[参数获取与LinValidator校验器](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%8F%82%E6%95%B0%E8%8E%B7%E5%8F%96%E4%B8%8ELinValidator%E6%A0%A1%E9%AA%8C%E5%99%A8.md)
+
+9. 异步编程模型里的异常处理链条：[异步编程模型里的异常处理链条](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E9%87%8C%E7%9A%84%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E9%93%BE%E6%9D%A1.md)
+
+10. 微信小程序登录鉴权&验证token：[微信小程序登录鉴权 && 验证token](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%99%BB%E5%BD%95%E9%89%B4%E6%9D%83%26%E9%AA%8C%E8%AF%81token.md)
+
+11. 数据库设计思路：[数据库设计思路](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF.md)
+
+12. 服务器部署指南：[服务器部署指南](https://github.com/ChenxiiCheng/Notes/blob/master/NodeJS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%83%A8%E7%BD%B2%E6%8C%87%E5%8D%97.md)
+
 <br/>
 
 ### React学习笔记：
