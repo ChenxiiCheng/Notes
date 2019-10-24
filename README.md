@@ -2,7 +2,7 @@
 
 整理的前后端学习笔记
 
-前端[React, Vue, Webpack, SSR, Antd, Element-UI, Flutter] + 后端[Django, Node.js, PHP] + 前端面试题[HTML, CSS, JS, React, Vue, Flutter, HTTP, 数据库.]
+前端[React, Vue, Webpack, SSR, Antd, Element-UI, Flutter] + 后端[Django, Node.js, PHP] + 前端面试题[HTML, CSS, JS, React, Vue, Flutter, HTTP, 数据库..]
 
 <br/>
 
