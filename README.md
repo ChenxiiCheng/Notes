@@ -8,13 +8,13 @@
 
 ### JS、TS、Node 学习
 
-1. JS 知识点总结：[JavaScript Summary](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/JS终极总结.md)
+1. JS 知识点总结：[JavaScript 知识点总结 | JavaScript Summary](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/JS终极总结.md)
 
-2. TS 知识点总结：[TypeScript Summary](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/TS学习.md)
+2. TS 知识点总结：[TypeScript 知识点总结 | TypeScript Summary](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/TS学习.md)
 
-3. Node.js 学习：[Node.js Learn](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/NodeJS笔记.md)
+3. Node.js 学习：[Node 学习笔记 | Node.js Learn](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/NodeJS笔记.md)
 
-4. Nest.js 学习：[Nest.js Learn](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/NestJS学习.md)
+4. Nest.js 学习：[Nest 学习笔记 | Nest.js Learn](https://github.com/ChenxiiCheng/Notes/blob/master/JavaScript-Notes/NestJS学习.md)
 
 <br/>
 
