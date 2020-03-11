@@ -2,7 +2,7 @@
 
 整理的前后端学习笔记
 
-前端【React, Redux, Vue, Ant Design UI, Element UI】 + 后端【Node.js, TypeScript, Express.js, Egg.js, Django, Django Rest Framework, Nest.js, MongoDB, Mongoose】
+Frontend【React, Redux, Vue, Ant Design UI, Element UI】 + Backend【Node.js, TypeScript, Express.js, Egg.js, Django, Django Rest Framework, Nest.js, MongoDB, Mongoose】
 
 <hr />
 
