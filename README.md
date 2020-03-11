@@ -2,7 +2,7 @@
 
 整理的前后端学习笔记
 
-前端【 React, Vue, Ant Design UI, Element UI, Flutter 】 + 后端【 JavaScript, Node.js, TypeScript, Express.js, Egg.js, Nest.js, MongoDB, Mongoose 】 + 前端面试题【 HTML, CSS, Node, JS, TS, React, Vue, Flutter, HTTP, MongoDB 】
+前端【React, Redux, Vue, Ant Design UI, Element UI】 + 后端【Node.js, TypeScript, Express.js, Egg.js, Django, Django Rest Framework, Nest.js, MongoDB, Mongoose】
 
 <hr />
 
