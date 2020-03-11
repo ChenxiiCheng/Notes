@@ -1,8 +1,8 @@
 # Notes
 
-整理的前后端学习笔记
+整理的前后端学习笔记 | Study Notes
 
-Frontend【React, Redux, Vue, Ant Design UI, Element UI】 + Backend【Node.js, TypeScript, Express.js, Egg.js, Django, Django Rest Framework, Nest.js, MongoDB, Mongoose】
+Frontend【React, Redux, Vue, Ant Design UI, Element UI】+ Backend【Node.js, TypeScript, Express.js, Egg.js, Django, Django Rest Framework, Nest.js, MongoDB, Mongoose】
 
 <hr />
 
@@ -42,16 +42,16 @@ Frontend【React, Redux, Vue, Ant Design UI, Element UI】 + Backend【Node.js, 
 
 ### Django 学习笔记系列：
 
-1. Django-Initial：[初始化](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Initial.md)
+1. Django Initial：[初始化](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Initial.md)
 
-2. Django-Postgres-PgAdmin：[使用 Postgres 数据库](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Postgres-PgAdmin.md)
+2. Django Postgres PgAdmin：[使用 Postgres 数据库](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Postgres-PgAdmin.md)
 
-3. Django-Admin：[创建、注册、定制化 admin](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Admin.md)
+3. Django Customized Admin：[创建、注册、定制化 admin](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Admin.md)
 
-4. Django-xadmin：[xadmin 配置](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-xadmin%E9%85%8D%E7%BD%AE.md)
+4. Django Xadmin：[xadmin 配置](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-xadmin%E9%85%8D%E7%BD%AE.md)
 
-5. Django-Templates：[模板使用静态资源、高亮导航栏入口](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Templates.md)
+5. Django Templates：[模板使用静态资源、高亮导航栏入口](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Templates.md)
 
-6. Django-Pagination：[实现分页](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Pagination.md)
+6. Django Pagination：[实现分页](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Pagination.md)
 
-7. Django-Search：[搜索](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Search.md)
+7. Django Search：[搜索](https://github.com/ChenxiiCheng/Notes/blob/master/Django-Notes/Django-Search.md)
